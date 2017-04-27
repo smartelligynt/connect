@@ -1,18 +1,18 @@
 # smartelligynt [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> Data platform for Iot
+> Visualization for Iot Data platform
 
 ## Installation
 
 ```sh
-$ npm install --save smartelligynt
+$ git clone git@github.com:smartelligynt/connect.git
+$ nvm use 6
+$ npm install
 ```
 
 ## Usage
 
 ```js
-var smartelligynt = require('smartelligynt');
-
-smartelligynt('Rainbow');
+gulp dev
 ```
 ## License
 
