@@ -1,0 +1,15 @@
+.gridLines {
+  stroke: #CEE3EA;
+}
+
+.legend {
+  display: none;
+}
+
+.xAxis line {
+  display: none;
+}
+
+.lineClass {
+  stroke-width: 2.5px;
+}
